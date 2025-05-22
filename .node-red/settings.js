@@ -8,7 +8,7 @@ module.exports = {
         }]
     },
     // ใช้ค่า default เพิ่มเติมก็ได้ เช่น:
-    httpAdminRoot: "/admin",
+    // httpAdminRoot: "/admin",
     httpNodeRoot: "/api",
     functionGlobalContext: {}
 }
